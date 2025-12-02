@@ -1,6 +1,5 @@
 # 🪶 MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues
 
-<div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <a href="#"><img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg"></a>
   <a href="https://huggingface.co/spaces/AI4Editing/MagicQuillV2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"></a>
@@ -10,7 +9,7 @@
 <br>
 
 <div align="center">
-  <video src="./video.mp4" width="100%" controls autoplay muted loop></video>
+  <video src="[./video.mp4](https://github.com/user-attachments/assets/58079152-7729-48ed-9bb4-0ddfd1873dd0)" width="100%" controls autoplay muted loop></video>
 </div>
 
 <br>
