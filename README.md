@@ -54,7 +54,7 @@ Our model is based on Flux Kontext, which is large and computationally intensive
 - **VRAM**: Approximately **40GB** of VRAM is required for inference.
 - **Speed**: It takes about **30 seconds** to generate a single image.
 
-> **Important**: This is a research project focused on pushing the boundaries of interactive editing. If you do not have sufficient GPU memory, we recommend checking out our [**MagicQuill V1**](https://github.com/ant-research/MagicQuill) or trying the online demo on [**Hugging Face Spaces**](https://huggingface.co/spaces/AI4Editing/MagicQuillV2).
+> **Important**: This is a research project focused on pushing the boundaries of interactive image editing. If you do not have sufficient GPU memory, we recommend checking out our [**MagicQuill V1**](https://github.com/ant-research/MagicQuill) or trying the online demo on [**Hugging Face Spaces**](https://huggingface.co/spaces/AI4Editing/MagicQuillV2).
 
 ## Setup
 
